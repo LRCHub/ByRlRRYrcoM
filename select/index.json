@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "化け物でいさせて",
+  "base_artist": "夕凪機",
+  "createdAt": "2025-12-26T04:35:29.408417Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "化け物でいさせて feat. レルエ",
+      "artist": "夕凪機",
+      "has_synced": false,
+      "path": "select/pl_01_化け物でいさせて_feat._レルエ_夕凪機.txt"
+    }
+  ]
+}
